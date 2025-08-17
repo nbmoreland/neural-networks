@@ -1,5 +1,4 @@
 # Nicholas Moreland
-# 1001886051
 
 from uci_data import *
 import tensorflow as tf
